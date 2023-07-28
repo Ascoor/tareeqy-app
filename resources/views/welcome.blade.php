@@ -38,9 +38,15 @@
             <img src="{{ asset('/student/welcome-1.jpg') }}" alt="Welcome Image" class="mb-4 rounded-circle welcome-image">
             <h1 class="display-4">مرحبًا بك في منصة طريقي</h1>
             <p class="lead">منصة تساعدك في الوصول إلى الجامعات المصرية</p>
-            <a href="#" class="btn btn-primary btn-lg">تعرف على خدماتنا</a>
+    
+            <!-- WhatsApp Link Button -->
+            <a href="https://api.whatsapp.com/send?phone=201060697586" class="btn btn-primary btn-lg">تعرف على خدماتنا</a>
+            <!-- Replace "201060697586" with "01060697586" without spaces or special characters -->
+    
         </div>
     </div>
+    <!-- Rest of your content -->
+    
     <!-- Rest of your content -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
